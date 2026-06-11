@@ -8,6 +8,6 @@ The experiment reports:
 - intent accuracy
 - slot F1
 - semantic frame accuracy
-- robustness drop
+-  robustness drop, reported as intent drop, slot F1 drop, and semantic frame drop
 
 The included CSV and graph show the final results used in the 2.2D paper.
