@@ -1,0 +1,6 @@
+Test condition,Intent Accuracy,Slot F1,Semantic Frame Accuracy,Intent Drop,Slot F1 Drop,Semantic Frame Drop
+Clean,98.29,94.21,86.29,0.0,0.0,0.0
+Misspelling,96.0,78.75,54.0,2.29,15.45,32.29
+Punctuation/Casing,98.14,89.43,70.29,0.14,4.77,16.0
+Abbreviation/Substitution,95.71,77.85,51.29,2.57,16.36,35.0
+Mixed Noise,92.57,62.67,27.14,5.71,31.54,59.14
