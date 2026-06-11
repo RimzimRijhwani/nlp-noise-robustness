@@ -1,0 +1,6 @@
+Test condition,Baseline Intent Accuracy,Augmented Intent Accuracy,Intent Improvement,Baseline Slot F1,Augmented Slot F1,Slot F1 Improvement,Baseline Semantic Frame Accuracy,Augmented Semantic Frame Accuracy,Semantic Frame Improvement
+Clean,97.86,97.57,-0.29,93.83,94.44,0.61,85.71,87.0,1.29
+Misspelling,95.43,96.71,1.29,78.57,89.14,10.57,55.43,75.14,19.71
+Punctuation/Casing,97.86,97.57,-0.29,89.32,93.86,4.54,69.86,86.0,16.14
+Abbreviation/Substitution,94.14,97.71,3.57,77.91,93.63,15.72,51.0,84.86,33.86
+Mixed Noise,90.14,97.0,6.86,62.76,88.77,26.01,26.29,75.29,49.0
