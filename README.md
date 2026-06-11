@@ -23,11 +23,6 @@ The experiment reports:
 - semantic frame accuracy
 - robustness drop, reported as intent drop, slot F1 drop, and semantic frame drop
 
-The included CSV and graph show the final results used in the 2.2D paper:
-
-- `2_2D_snips_noise_robustness_results.csv`
-- `2_2D_snips_noise_robustness_plot.png`
-
 ## Task 2.3HD: Noise-Aware Augmentation Experiment
 
 The file `2_3HD_noise_augmented_SNIPS.ipynb` contains the High Distinction task experiment.
@@ -54,5 +49,3 @@ The evaluation reports:
 - robustness drop
 - direct improvement from the baseline model to the noise-augmented model
 
-
-```
